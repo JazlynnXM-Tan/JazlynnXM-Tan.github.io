@@ -24,7 +24,7 @@ Work experience
 * Jan 2022 - Jul 2022: Research Officer
   * Genome Institute of Singapore (GIS), A*STAR, Singapore
   * Skills: spatial transcriptomics MERFISH analysis, machine learning, image processing
-  * Supervisor: [Dr. Chen Kok Hao]([https://www.carolineweelab.com/](https://khchenlab.github.io/))
+  * Supervisor: [Dr. Chen Kok Hao](https://khchenlab.github.io/)
 
 Publications
 ======
