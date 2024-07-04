@@ -258,7 +258,7 @@ defaults:
   # _conferences
   - scope:
       path: ""
-      type:conferences
+      type: conferences
     values:
       layout: single
       author_profile: true
