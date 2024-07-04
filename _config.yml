@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Medical Biophysics PhD student interested in neuroscience, imaging and machine learning"
   location         : "Toronto, Canada"
-  employer         : "University of Toronto"
+  employer         : "University of Toronto / A*STAR Singapore"
   uri              : # URL
   email            : "jazlynn.tan@mail.utoronto.ca" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
