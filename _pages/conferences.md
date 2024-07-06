@@ -14,7 +14,6 @@ author_profile: true
   - Organized by Center for Brain Sciences (RIKEN). This year's theme: Sensation & Perception
   - Poster: Network dysfunction underlying cognitive impairment in repetitive mild traumatic brain injury (TBI)
 
-
 {% include base_path %}
 
 {% for post in site.conferences reversed %}
