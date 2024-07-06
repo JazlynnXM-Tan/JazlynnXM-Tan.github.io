@@ -11,7 +11,7 @@ author_profile: true
   - Poster: Stepwise connectivity patterns along the gradients of brain organization in Alzheimer's disease
 
 - **RIKEN CBS summer program 2024**
-  - Organized by Center for Brain Sciences (RIKEN). This year's theme: sensory perception
+  - Organized by Center for Brain Sciences (RIKEN). This year's theme: Sensation & Perception
   - Poster: Network dysfunction underlying cognitive impairment in repetitive mild traumatic brain injury (TBI)
 
 
