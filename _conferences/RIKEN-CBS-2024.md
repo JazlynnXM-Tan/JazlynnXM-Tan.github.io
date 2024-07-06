@@ -6,6 +6,6 @@ excerpt: 'I used axonal tracing and diffusion MRI to investigate the structural 
 date: July 2024
 venue: 
 slidesurl: 'https://jazlynnxm-tan.github.io/files/OHBM_poster.pdf'
-paperurl: 'https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2100'
+paperurl: 
 citation:
 ---
