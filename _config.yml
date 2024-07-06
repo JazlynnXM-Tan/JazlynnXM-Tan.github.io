@@ -21,7 +21,7 @@ repository               : "JazlynnXM-Tan/jazlynnxm-tan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Jazlynn_profile.jpg"
+  avatar           : "Jazlynn_profile.jpg"
   name             : "Jazlynn Tan"
   pronouns         : # example: "she/her"  
   bio              : "Medical Biophysics PhD student interested in neuroscience, imaging and machine learning"
