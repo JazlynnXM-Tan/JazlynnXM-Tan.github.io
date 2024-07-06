@@ -1,7 +1,7 @@
 ---
 title: "Larval Zebrafish as a Model for Mechanistic Discovery in Mental Health"
 collection: publications
-permalink: /publication/larval_zebrafish_as_a_model_for_mechanistic_discovery_in_mental_health
+permalink: /publication/zebrafish-review
 excerpt: 'A review on the use of larval zebrafish as a model for mental health research.'
 date: 23 June 2022
 venue: 'Frontiers in Molecular Neuroscience'
