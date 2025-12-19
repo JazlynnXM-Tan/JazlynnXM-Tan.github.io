@@ -1,7 +1,7 @@
 ---
 title: "Network dysfunction underlying cognitive impairment in repetitive mild traumatic brain injury (TBI)"
 collection: conferences
-permalink: /conferences/RIKENCBS2024-TBI-structuralconnectivity
+permalink: /conferences/RIKEN-CBS-2024
 excerpt: 'I used axonal tracing and diffusion MRI to investigate the structural connectivity underlying cognitive impairment after TBI in a cortical controlled impact mouse model.'
 date: July 2024
 venue: 
